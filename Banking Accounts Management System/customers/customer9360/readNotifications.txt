@@ -1,0 +1,8 @@
+Sender name: Ahmed A  with ID: 3879 successfully sent 599!
+Sender name: Ahmed A  with ID: 3879 successfully sent 250!
+Sender name: Ahmed A  with ID: 3879 successfully sent 10!
+Sender name: Ahmed  with ID: 3879 successfully sent 1000!
+Sender name: Ahmed  with ID: 3879 successfully sent 1200!
+Sender name: Ahmed  with ID: 3879 successfully sent 1000!
+Sender name: Ahmed  with ID: 3879 successfully sent 1000!
+Sender name: Ahmed  with ID: 3879 successfully sent 1000!

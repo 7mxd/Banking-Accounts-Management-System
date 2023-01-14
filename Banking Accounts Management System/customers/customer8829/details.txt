@@ -1,0 +1,1 @@
+Name: Etisalat , Date of Birth: 2022-01-01, Email Address: Etisalat@etisalat.ae, Phone Number: 000000000, Salary: 0, Account Type: current, Username: etisalat, Password: 123456, Balance: 3700, CustomerID: 8829

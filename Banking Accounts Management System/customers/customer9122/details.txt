@@ -1,0 +1,1 @@
+Name: 123123 , Date of Birth: 2022-12-09, Email Address: 12312312@., Phone Number: 1231231231231, Salary: 13132, Account Type: current, Username: 123123, Password: 123123, Balance: 123123, CustomerID: 9122

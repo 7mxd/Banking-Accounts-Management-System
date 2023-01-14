@@ -1,0 +1,1 @@
+Name: Sultan Alhosani , Date of Birth: 2022-12-27, Email Address: SmashyBlaze@gmail.com, Phone Number: 12311234123, Salary: 1000000, Account Type: current, Username: Smashy, Password: 123456, Balance: 12345123, CustomerID: 1244

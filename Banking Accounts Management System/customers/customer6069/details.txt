@@ -1,0 +1,1 @@
+Name: Water and Electricity , Date of Birth: 2022-01-01, Email Address: WaterandElectricity@wae.ae, Phone Number: 000000000, Salary: 0, Account Type: current, Username: WaterandElectricity, Password: 123456, Balance: 4600, CustomerID: 6069

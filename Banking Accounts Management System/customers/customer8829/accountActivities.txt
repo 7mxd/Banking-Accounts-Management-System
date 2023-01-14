@@ -1,0 +1,8 @@
+2022-12-06
+Sender name: Ahmed A with ID: 3879 successfully sent 200!
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1000!
+2022-12-10
+Sender name: MXQ with ID: 2721 successfully sent 1500!
+2022-12-10
+Sender name: Ahmed with ID: 3879 successfully sent 1000!

@@ -1,0 +1,1 @@
+Name: Ali TESTUSER , Date of Birth: 2003-12-11, Email Address: ali.uae@hotmail.com, Phone Number: 971569135351, Salary: 12000, Account Type: current, Username: AliTest, Password: 123456, Balance: 17215, CustomerID: 9360

@@ -1,0 +1,54 @@
+2022-12-06
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 1829!
+2022-12-06
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 120!
+2022-12-06
+599 has successfully transferred to customerID: 9360
+2022-12-06
+1000 has successfully transferred to Water and Electricity
+2022-12-06
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 20!
+2022-12-07
+50 has successfully transferred to Du
+2022-12-07
+250 has successfully transferred to customerID: 9360
+2022-12-07
+10 has successfully transferred to customerID: 9360
+2022-12-07
+500 has successfully transferred to Water and Electricity
+2022-12-07
+500 has successfully transferred to Water and Electricity
+2022-12-07
+300 has successfully transferred to University
+2022-12-07
+1000 has successfully transferred to customerID: 9360
+2022-12-08
+1200 has successfully transferred to customerID: 9360
+2022-12-08
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 1000!
+2022-12-08
+1000 has successfully transferred to customerID: 9360
+2022-12-08
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 2500!
+2022-12-08
+2000 has successfully transferred to Water and Electricity
+2022-12-08
+453 has successfully transferred to University
+2022-12-08
+1000 has successfully transferred to customerID: 9360
+2022-12-08
+1000 has successfully transferred to customerID: 9360
+2022-12-08
+Sender name: Ali TESTUSER with ID: 9360 successfully sent 4200!
+2022-12-08
+Sender name: Ahmed Saving Account with ID: 4790 successfully sent 10000!
+2022-12-08
+1000 has successfully transferred to customerID: 4790
+2022-12-08
+325 has successfully transferred to University
+2022-12-08
+1000 has successfully transferred to Etisalat
+2022-12-10
+1000 has successfully transferred to Etisalat
+2022-12-10
+1000 has successfully transferred to University

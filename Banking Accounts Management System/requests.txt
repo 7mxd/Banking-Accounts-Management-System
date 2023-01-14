@@ -1,0 +1,3 @@
+An account creation request has been made
+Name: Sultan, Date of Birth: 2022-12-04, Email Address: 1231231@., Phone Number: 111121234567, Salary: 11111, Account Type: current, Username: cSultan, Password: 10000,
+ ID: 4310

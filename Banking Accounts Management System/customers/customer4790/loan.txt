@@ -1,0 +1,2 @@
+CustomerID: 4790 requested a loan of amount: 20000
+

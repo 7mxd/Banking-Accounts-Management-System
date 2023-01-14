@@ -1,0 +1,1 @@
+Name: Sultan , Date of Birth: 2022-12-17, Email Address: smashyblaze@gmail.com, Phone Number: 045121231231, Salary: 10000000, Account Type: current, Username: Alhosani, Password: Alhosani5, Balance: 1000, CustomerID: 3359

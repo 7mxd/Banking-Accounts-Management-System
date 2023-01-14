@@ -1,0 +1,1 @@
+Name: Mohamed Hassan , Date of Birth: 2001-08-18, Email Address: Mo@hotmail.com, Phone Number: 973569135351, Salary: 12000, Account Type: current, Username: Mo, Password: 123456, Balance: 45000, CustomerID: 2884

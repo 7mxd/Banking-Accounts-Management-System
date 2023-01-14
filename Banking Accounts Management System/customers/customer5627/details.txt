@@ -1,0 +1,1 @@
+Name: du , Date of Birth: 2022-01-01, Email Address: du@du.ae, Phone Number: 000000000, Salary: 0, Account Type: current, Username: du, Password: 123456, Balance: 150, CustomerID: 5627

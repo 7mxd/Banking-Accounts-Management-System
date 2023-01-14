@@ -1,0 +1,4 @@
+2022-12-08
+10000 has successfully transferred to customerID: 3879
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1000!

@@ -1,0 +1,25 @@
+
+CustomerID: 3879 requested a loan of amount: 1231
+
+CustomerID: 3879 requested a loan of amount: 20000
+
+CustomerID: 3879 requested a loan of amount: 10000
+
+CustomerID: 3879 requested a loan of amount: 30000
+
+CustomerID: 3879 requested a loan of amount: 30000
+
+CustomerID: 3879 requested a loan of amount: 10000
+
+CustomerID: 3879 requested a loan of amount: 10000
+
+CustomerID: 3879 requested a loan of amount: 10000
+
+CustomerID: 3879 requested a loan of amount: 10000
+
+CustomerID: 3879 requested a loan of amount: 1000
+
+CustomerID: 3879 requested a loan of amount: 5000
+
+CustomerID: 3879 requested a loan of amount: 2000
+

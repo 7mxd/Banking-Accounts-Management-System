@@ -1,0 +1,28 @@
+2022-12-06
+1829 has successfully transferred to customerID: 3879
+2022-12-06
+120 has successfully transferred to customerID: 3879
+2022-12-06
+Sender name: Ahmed A with ID: 3879 successfully sent 599!
+2022-12-06
+20 has successfully transferred to customerID: 3879
+2022-12-07
+Sender name: Ahmed A with ID: 3879 successfully sent 250!
+2022-12-07
+Sender name: Ahmed A with ID: 3879 successfully sent 10!
+2022-12-07
+Sender name: Ahmed with ID: 3879 successfully sent 1000!
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1200!
+2022-12-08
+1000 has successfully transferred to customerID: 3879
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1000!
+2022-12-08
+2500 has successfully transferred to customerID: 3879
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1000!
+2022-12-08
+Sender name: Ahmed with ID: 3879 successfully sent 1000!
+2022-12-08
+4200 has successfully transferred to customerID: 3879
