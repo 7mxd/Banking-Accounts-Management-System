@@ -21,5 +21,17 @@ The aim of this project is to build a piece of software that enhances the level 
 ## Registration Page:
 <img src="ReadMe_Images/Registration_Page.JPG" width="50%" height="50%">
 
+## Banker Page:
+<img src="ReadMe_Images/Banker_Page.JPG" width="50%" height="50%">
+
+### Search Page:
+<img src="ReadMe_Images/Banker_Search.JPG" width="50%" height="50%">
+
+## User Page:
+<img src="ReadMe_Images/User_Page.JPG" width="50%" height="50%">
+
+### 
+
+
 
 
