@@ -7,7 +7,7 @@ Project was done by a group of 4 students, as listed below:
 - Sultan Hussain Alhosani
 - Rashed Ammar AlKhajeh
 
-More details can be found in the [report](OOP Project Report.pdf).
+More details can be found in the [report](https://github.com/7mxd/Banking-Accounts-Management-System/blob/a2740959127192f5bf49c3c0698ba37c6fbb7ea6/OOP%20Project%20Report.pdf)
 
 
 # Objective:
