@@ -30,7 +30,23 @@ The aim of this project is to build a piece of software that enhances the level 
 ## User Page:
 <img src="ReadMe_Images/User_Page.JPG" width="50%" height="50%">
 
-### 
+### Acount Details Page:
+<img src="ReadMe_Images/User_Details.JPG" width="50%" height="50%">
+
+### "Transfer to a Utility" Page:
+<img src="ReadMe_Images/User_Transfer_1.JPG" width="50%" height="50%">
+
+### "Transfer to Other Customer" Page:
+<img src="ReadMe_Images/User_Transfer_2.JPG" width="50%" height="50%">
+
+### Account Activities Page:
+<img src="ReadMe_Images/User_Activities.JPG" width="50%" height="50%">
+
+### "View E-Statement" Page:
+<img src="ReadMe_Images/User_Statement.JPG" width="50%" height="50%">
+
+### Notifications Page:
+<img src="ReadMe_Images/User_Notifications.JPG" width="50%" height="50%">
 
 
 
