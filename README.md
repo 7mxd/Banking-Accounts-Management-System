@@ -3,7 +3,7 @@ Project done for the Object Oriented Programming (ECCE 230) course at Khalifa Un
 
 Project was done by a group of 4 students, as listed below:
 - Mohammed Abdulla Al Blooshi
-- **<code>Ahmed Alawi Radhi</code>**
+- **`Ahmed Alawi Radhi`**
 - Sultan Hussain Alhosani
 - Rashed Ammar AlKhajeh
 
@@ -17,4 +17,9 @@ The aim of this project is to build a piece of software that enhances the level 
 
 ## Login Page:
 <img src="ReadMe_Images/Login_Page.JPG" width="50%" height="50%">
+
+## Registration Page:
+<img src="ReadMe_Images/Registration_Page.JPG" width="50%" height="50%">
+
+
 
