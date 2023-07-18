@@ -3,7 +3,7 @@ Project done for the Object Oriented Programming (ECCE 230) course.
 
 Project was done by a group of 4 students, as listed below:
 - Mohammed Abdulla Al Blooshi
-- **<code style="color : red">Ahmed Alawi Radhi</code>**
+- **<code>Ahmed Alawi Radhi</code>**
 - Sultan Hussain Alhosani
 - Rashed Ammar AlKhajeh
 
