@@ -16,5 +16,5 @@ The aim of this project is to build a piece of software that enhances the level 
 # Some Screenshots: 
 
 ## Login Page:
-<img src="ReadMe_Images/Login_Page.jpeg" width="50%" height="50%">
+<img src="ReadMe_Images/Login_Page.jpg" width="50%" height="50%">
 
