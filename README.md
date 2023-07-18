@@ -14,3 +14,7 @@ The aim of this project is to build a piece of software that enhances the level 
 <img src="ReadMe_Images/Class_Diagram.jpeg" width="50%" height="50%">
 
 # Some Screenshots: 
+
+## Login Page:
+<img src="ReadMe_Images/Login_Page.jpeg" width="50%" height="50%">
+
