@@ -1,5 +1,5 @@
 # Banking-Accounts-Management-System
-Project done for the Object Oriented Programming (ECCE 230) course. 
+Project done for the Object Oriented Programming (ECCE 230) course at Khalifa University. 
 
 Project was done by a group of 4 students, as listed below:
 - Mohammed Abdulla Al Blooshi
@@ -12,3 +12,5 @@ The aim of this project is to build a piece of software that enhances the level 
 
 # Implementation and Class Diagram:
 <img src="ReadMe_Images/Class_Diagram.jpeg" width="50%" height="50%">
+
+# Some Screenshots: 
