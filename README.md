@@ -43,7 +43,7 @@ The aim of this project is to build a piece of software that enhances the level 
 <img src="ReadMe_Images/User_Activities.JPG" width="50%" height="50%">
 
 ### "View E-Statement" Page:
-<img src="ReadMe_Images/User_Statement.JPG" width="50%" height="50%">
+<img src="ReadMe_Images/User_Statement.jpg" width="50%" height="50%">
 
 ### Notifications Page:
 <img src="ReadMe_Images/User_Notifications.JPG" width="50%" height="50%">
