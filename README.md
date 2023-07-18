@@ -31,7 +31,7 @@ The aim of this project is to build a piece of software that enhances the level 
 <img src="ReadMe_Images/User_Page.JPG" width="50%" height="50%">
 
 ### Acount Details Page:
-<img src="ReadMe_Images/User_Details.JPG" width="50%" height="50%">
+<img src="ReadMe_Images/User_Details.jpg" width="50%" height="50%">
 
 ### "Transfer to a Utility" Page:
 <img src="ReadMe_Images/User_Transfer_1.JPG" width="50%" height="50%">
